@@ -1,0 +1,1 @@
+This is a Android based Web application for a startup "Fudospot".
