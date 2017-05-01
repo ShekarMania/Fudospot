@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "92070644967",
+    "firebase_url": "https://fudospot-be244.firebaseio.com",
+    "project_id": "fudospot-be244",
+    "storage_bucket": "fudospot-be244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92070644967:android:bc67358c7cf2b98d",
+        "android_client_info": {
+          "package_name": "fudospot.in.fudospot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92070644967-4k94hpqo96p1g55dnkded32q2cd8hsip.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpItme8S_0Ls_8CyErgu-YqXR2y6tEFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
